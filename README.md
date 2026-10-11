@@ -10,7 +10,7 @@
 
 ## Tema
 
-Descrierea pe scurt a temei (3-5 rânduri): problema, pentru cine este utilă, ce rezultat se urmărește la finalul anului.
+Descrierea pe scurt a temei (3-5 rânduri): Tema mea iși propune să rezolve problema estimării consumului de energie în clădiri, o chestiune esențială mai ales acum, cu fluctuațiile prețurilor la utilități. Proiectul este util atât pentru administratorii cladirilor, care pot să-și planifice mai bine bugetele, cat și pentru locatari sau companii, care vor putea înțelege unde fac risipă. Până la finalul anului, vreau să obțin un model functional care să poată lua date istorice (cum ar fi consumul din trecut și temperatura exterioara) și să ofere o predicție destul de precisă pentru perioada următoare, demonstrată printr-o mică aplicație sau un studiu de caz aplicat.
 
 ## Structura depozitului
 
@@ -58,10 +58,10 @@ Dacă rularea din Actions eșuează (semnul roșu), deschideți-o: ultima eroare
 Pentru cod în caiet utilizați mediul `cod` (diacriticele merg; rândurile discutate se evidențiază):
 
 ```latex
-\\\\begin{cod}\\\[highlightlines={2}]
+\\\\\\\\begin{cod}\\\\\\\[highlightlines={2}]
 def suma(n):
     return sum(range(n))
-\\\\end{cod}
+\\\\\\\\end{cod}
 ```
 
 ## Etapele
